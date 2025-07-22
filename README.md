@@ -1,8 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Gitanjali - Bhagavad Gita AI Assistant
-
-[
 
 An intelligent AI assistant that provides wisdom and guidance from the sacred Bhagavad Gita, powered by modern NLP and vector search technologies.
 
