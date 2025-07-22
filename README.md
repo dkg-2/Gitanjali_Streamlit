@@ -1,4 +1,4 @@
-# Gitanjali - Bhagavad Gita AI Assistant
+# Gitanjali - Bhagavad Gita AI Guide
 
 An intelligent AI assistant that provides wisdom and guidance from the sacred Bhagavad Gita, powered by modern NLP and vector search technologies.
 
